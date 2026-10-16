@@ -1,13 +1,13 @@
-# Infrastructure Automation Portfolio
+# Infrastructure & DevOps
 
-Technical examples of infrastructure engineering, automation, and DevOps workflows.
+Projects and notes on Linux administration, virtualization, networking, automation, and CI/CD.
 
-## Topics
+## Projects
 
-- Linux and Windows administration
-- Virtualization and containerization
-- Infrastructure as Code and configuration management
-- Networking and monitoring
-- Python automation and CI/CD
+- Ansible automation for VMware vSphere and Windows VMs
+- Telegram bots built with Python and PostgreSQL
+- Docker-based services, monitoring, and operational tooling
 
-Repositories contain demonstration code and synthetic examples. Production credentials, infrastructure identifiers, and personal data should not be committed.
+## Stack
+
+Linux · Windows Server · Ansible · Docker · Python · PostgreSQL · GitHub Actions · VMware · Proxmox · Zabbix
